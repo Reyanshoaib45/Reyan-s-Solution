@@ -28,8 +28,14 @@ const Hero = () => {
                             </span>
                         </h1>
                         <p className="mt-6 text-xl sm:text-2xl text-gray-300 font-medium">
-                            Custom Websites & Scalable Software for Growing Businesses
+                            Building Scalable Websites & Dashboards for Dubai Businesses & Beyond
                         </p>
+                        <div className="mt-4 flex items-center justify-center lg:justify-start gap-2">
+                            <span className="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-blue-600/20 to-purple-600/20 rounded-full border border-blue-600/30">
+                                <span className="text-xl">🌍</span>
+                                <span className="text-gray-300 text-sm font-medium">Serving UAE & International Clients</span>
+                            </span>
+                        </div>
                         <p className="mt-4 text-lg text-gray-400">
                             We specialize in crafting high-performance websites, robust applications, and long-term digital strategies to propel your business forward.
                         </p>
